@@ -1,4 +1,4 @@
-# ✋ Hand Gesture Recognition for Cricket Numbers (0–6) using CNN & Real-Time Computer Vision
+# Hand Gesture Recognition for Cricket Numbers (0–6) using CNN & Real-Time Computer Vision
 
 This project implements a complete deep learning pipeline to classify **cricket-style hand gestures** representing numbers **0 through 6** using a **custom-built CNN model**. The final system performs gesture recognition in **real time** from webcam input using **MediaPipe**, **HSV skin segmentation**, **OpenCV**, and **TensorFlow**.
 
