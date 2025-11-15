@@ -5,7 +5,6 @@ This project implements a complete deep learning pipeline to classify **cricket-
 ---
 
 ## 📌 Key Features
-
 - ✅ **Trained from scratch** using `TensorFlow` and `Keras` (no transfer learning)
 - ✋ **MediaPipe** used to detect and crop only the hand region
 - 🎨 **HSV skin segmentation** removes background and isolates the hand
